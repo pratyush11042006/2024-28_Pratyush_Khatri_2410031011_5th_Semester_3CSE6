@@ -86,8 +86,8 @@ The internship focused on moving beyond fragile, custom-written ETL scripts towa
 ## 📁 Repository Structure
 
 ```text
-.
+
 ├── Pratyush_Internship_Report.pdf   # Full internship report 
 ├── Pratyush_PPT_Internship.pdf      # Presentation
-├── Pratyush_Certificate.pdf            # Official Certificate
-└── README.md                               # Project documentation
+├── Pratyush_Certificate.pdf         # Official Certificate
+└── README.md                        # Project documentation
