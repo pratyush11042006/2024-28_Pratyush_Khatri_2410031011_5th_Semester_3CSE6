@@ -87,7 +87,7 @@ The internship focused on moving beyond fragile, custom-written ETL scripts towa
 
 ```text
 .
-├── Internship_Report_Pratyush_Khatri.pdf   # Full internship report (IILM / AICTE format)
-├── Data_Engineering_Presentation.html      # Presentation slide deck (HTML format)
-├── Completion_Certificate.pdf              # Official Master of ELT Best Practices Certificate
+├── Pratyush_Internship_Report.pdf   # Full internship report 
+├── Pratyush_PPT_Internship.pdf      # Presentation
+├── Pratyush_Certificate.pdf            # Official Certificate
 └── README.md                               # Project documentation
